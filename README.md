@@ -6,7 +6,7 @@
 
 <h3 align="center">Hi, I'm Mariano Villafuerte from Argentina, I'm a Full Stack developer.</h3>
 <p align="center">
-<img align="center" src="./logos/Imagen1.png" width="60%"/>
+<img align="center" src="./logos/Imagen1.png" width="100%"/>
 </p>
 <h2 align="center"> My Skills  </h2>
 <p align="center">HTML, CSS, JAVASCRIPT, GIT, NODE JS, EXPRESS, REACT, REDUX, SEQUELIZE, POSTGRESQL, MONGODB, and TYPESCRIPT.<p>
@@ -24,6 +24,7 @@
   <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/mongodb.svg" width="30" height="30" align="center"/>
   <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/typescript.svg" width="30" height="30" align="center"/>
 </p>
+
 <h2 align="center"> Some of my projects  </h2>
 Hey Bulldog! (Dog Breeds Catalog Page)
 Full Stack Project
