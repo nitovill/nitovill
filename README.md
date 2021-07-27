@@ -9,14 +9,13 @@
 <img align="center" src="./logos/Imagen1.png" width="60%"/>
 </p>
 <h2 align="center"> My Skills  </h2>
-HTML, CSS, JAVASCRIPT, SASS, GIT, NODE JS, EXPRESS, REACT, REDUX, SEQUELIZE, POSTGRESQL, MONGODB, and TYPESCRIPT.
+<p align="center">HTML, CSS, JAVASCRIPT, GIT, NODE JS, EXPRESS, REACT, REDUX, SEQUELIZE, POSTGRESQL, MONGODB, and TYPESCRIPT.<p>
 <p align="center">
   <img src="./logos/HTML5.svg" width="30" height="30" align="center"/>
   <img src="./logos/CSS3.svg" width="30" height="30" align="center"/>
-  <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/logo-javascript.svg" width="30" height="30" align="center"/>
-  <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/sass.svg" width="30" height="30" align="center"/>
-  <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/git-icon.svg" width="30" height="30" align="center"/>
-  <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/nodejs-icon.svg" width="30" height="30" align="center"/>
+  <img src="./logos/JavaScript.svg" width="30" height="30" align="center"/>
+  <img src="./logos/Git.svg" width="30" height="30" align="center"/>
+  <img src="./logos/Nodejs.svg" width="30" height="30" align="center"/>
   <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/express.png" width="30" height="30" align="center" color="white"/>
   <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/react-2.svg" width="30" height="30" align="center"/>
   <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/redux.svg" width="30" height="30" align="center"/>
@@ -25,6 +24,12 @@ HTML, CSS, JAVASCRIPT, SASS, GIT, NODE JS, EXPRESS, REACT, REDUX, SEQUELIZE, POS
   <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/mongodb.svg" width="30" height="30" align="center"/>
   <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/typescript.svg" width="30" height="30" align="center"/>
 </p>
+<h2 align="center"> Some of my projects  </h2>
+Hey Bulldog! (Dog Breeds Catalog Page)
+Full Stack Project
+Created with Html-Css-Jvascript-React-Redux in Front-end and Express-Sequelize-PostgreSQL in Back-end
+
+You can view this repo (https://github.com/nitovill/PI-Dogs-FT13)
 
 <!--
 **nitovill/nitovill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
