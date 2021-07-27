@@ -31,6 +31,13 @@ Created with Html-Css-Jvascript-React-Redux in Front-end and Express-Sequelize-P
 
 You can view this repo (https://github.com/nitovill/PI-Dogs-FT13)
 
+---
+
+How to reach me:
+
+<a href="https://www.linkedin.com/in/nelson-mariano-villafuerte" ><img width="30" src="./logos/linkedin.svg"> &nbsp;
+<a href="mailto:nitovillafuerte@outlook.com" ><img width="30" src="./logos/Outlook.svg">
+
 <!--
 **nitovill/nitovill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
