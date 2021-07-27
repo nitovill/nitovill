@@ -1,5 +1,5 @@
 ### Hi there 👋
-<code><img width="10%" height="50px" src="https://github.com/nitovill/nitovill/blob/main/Imagen1.png"></code>
+<code><img  src="https://github.com/nitovill/nitovill/blob/main/Imagen1.png"></code>
 <!--
 **nitovill/nitovill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
