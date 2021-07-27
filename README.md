@@ -1,5 +1,10 @@
 <code><img  src="https://github.com/nitovill/nitovill/blob/main/Imagen1.png"></code>
-Welcome to my github profile!
+
+<h2 align="center"> Welcome to my github profile!  </h2>
+
+<br>
+
+Hi, I'm Mariano Villafuerte from Argentina, I'm a Full Stack developer with experience in ...
 
 <!--
 **nitovill/nitovill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
