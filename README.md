@@ -31,7 +31,7 @@ Hey Bulldog! (Dog Breeds Catalog Page)
 Full Stack Project
 Created with Html-Css-Javascript-React-Redux in Front-end and Express-Mongoose-MongoDB in Back-end
 
-<img align="center" src="https://github.com/nitovill/nitovill/blob/main/logos/HB.png" width="90%"/>
+<img align="center" src="https://github.com/nitovill/nitovill/blob/main/logos/Hb.png" width="90%"/>
 
 You can view this repo (https://github.com/nitovill/PI-Dogs-FT13)
 
