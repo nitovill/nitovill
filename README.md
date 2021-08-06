@@ -26,9 +26,12 @@
 </p>
 
 <h2 align="center"> Some of my projects  </h2>
+
 Hey Bulldog! (Dog Breeds Catalog Page)
 Full Stack Project
-Created with Html-Css-Jvascript-React-Redux in Front-end and Express-Sequelize-PostgreSQL in Back-end
+Created with Html-Css-Javascript-React-Redux in Front-end and Express-Mongoose-MongoDB in Back-end
+
+<img align="center" src="./logos/Hb.png" width="90%"/>
 
 You can view this repo (https://github.com/nitovill/PI-Dogs-FT13)
 
@@ -38,18 +41,3 @@ How to reach me:
 
 <a href="https://www.linkedin.com/in/nelson-mariano-villafuerte" ><img width="30" src="./logos/linkedin.svg"> &nbsp;
 <a href="mailto:nitovillafuerte@outlook.com" ><img width="30" src="./logos/Outlook.svg">
-
-<!--
-**nitovill/nitovill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
