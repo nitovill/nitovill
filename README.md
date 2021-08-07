@@ -27,7 +27,7 @@
 
 <h2 align="center"> Some of my projects  </h2>
 
-Hey Bulldog! (Dog Breeds Catalog Page)
+<h4>Hey Bulldog!</h4>Dog Breeds Catalog Page - 
 Full Stack Project
 • Created with Html-Css-Javascript-React-Redux in Front-end and Express-Mongoose-MongoDB in Back-end
 
@@ -35,7 +35,10 @@ Full Stack Project
 
 You can view this repo (https://github.com/nitovill/Hey-Bulldog-)
 
-Trakker (a hotel SPA) Full Stack Project.This page allows you to reserve, publish and manage the rental of properties, among other things.
+<br>
+
+<h4>Trakker</h4>
+ Hotel SPA - Full Stack Project.This page allows you to reserve, publish and manage the rental of properties, among other things.
 • Created with React, Redux, pure CSS, Material Ui, MercadoPago, Node.Js, Mongoose, MongoDB, Firebase, SCRUM, GitHub, Typescript, etc.
 
 <img align="center" src="https://github.com/nitovill/nitovill/blob/main/logos/trakker.png" width="90%"/>
