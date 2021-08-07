@@ -35,11 +35,7 @@ Full Stack Project
 
 You can view this repo (https://github.com/nitovill/Hey-Bulldog-)
 
-Trakker (a hotel SPA)
-
-Full Stack Project.
-
-This page allows you to reserve, publish and manage the rental of properties, among other things.
+Trakker (a hotel SPA) Full Stack Project.This page allows you to reserve, publish and manage the rental of properties, among other things.
 • Created with React, Redux, pure CSS, Material Ui, MercadoPago, Node.Js, Mongoose, MongoDB, Firebase, SCRUM, GitHub, Typescript, etc.
 
 <img align="center" src="https://github.com/nitovill/nitovill/blob/main/logos/trakker.png" width="90%"/>
